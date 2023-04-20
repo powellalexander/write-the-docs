@@ -26,5 +26,3 @@ You can follow these general instructions to make a website with GitHub Pages.
 4. Merge files into the master branch.
 5. Go to the repository settings and enable GitHub Pages on the master branch.
 6. Open browser to the page.
-
-![this is an image](https://www.charlottecountyfl.gov/core/fileparse.php/698/urlt/sales-tax-596x344.jpg)
